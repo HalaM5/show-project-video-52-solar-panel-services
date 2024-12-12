@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: bisque;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+}
+
+video {
+    width: 80vw;
+    height: 60vh;
+}
